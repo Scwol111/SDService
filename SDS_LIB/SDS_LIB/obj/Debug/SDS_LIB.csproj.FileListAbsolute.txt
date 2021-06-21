@@ -1,0 +1,14 @@
+C:\Users\Никита\source\repos\SDS_LIB\SDS_LIB\bin\Debug\SDS_LIB.dll.config
+C:\Users\Никита\source\repos\SDS_LIB\SDS_LIB\bin\Debug\SDS_LIB.dll
+C:\Users\Никита\source\repos\SDS_LIB\SDS_LIB\bin\Debug\SDS_LIB.pdb
+C:\Users\Никита\source\repos\SDS_LIB\SDS_LIB\obj\Debug\SDS_LIB.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\SDS_LIB\SDS_LIB\obj\Debug\SDS_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\SDS_LIB\SDS_LIB\obj\Debug\SDS_LIB.dll
+C:\Users\Никита\source\repos\SDS_LIB\SDS_LIB\obj\Debug\SDS_LIB.pdb
+C:\Users\nikit\OneDrive\Desktop\SDS_LIB\SDS_LIB\bin\Debug\SDS_LIB.dll.config
+C:\Users\nikit\OneDrive\Desktop\SDS_LIB\SDS_LIB\bin\Debug\SDS_LIB.dll
+C:\Users\nikit\OneDrive\Desktop\SDS_LIB\SDS_LIB\bin\Debug\SDS_LIB.pdb
+C:\Users\nikit\OneDrive\Desktop\SDS_LIB\SDS_LIB\obj\Debug\SDS_LIB.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Desktop\SDS_LIB\SDS_LIB\obj\Debug\SDS_LIB.dll
+C:\Users\nikit\OneDrive\Desktop\SDS_LIB\SDS_LIB\obj\Debug\SDS_LIB.pdb
+C:\Users\nikit\OneDrive\Desktop\SDS_LIB\SDS_LIB\obj\Debug\SDS_LIB.csprojAssemblyReference.cache

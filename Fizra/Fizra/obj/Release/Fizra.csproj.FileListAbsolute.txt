@@ -1,0 +1,26 @@
+C:\Users\nikit\source\repos\Fizra\Fizra\bin\Release\Fizra.exe.config
+C:\Users\nikit\source\repos\Fizra\Fizra\bin\Release\Fizra.exe
+C:\Users\nikit\source\repos\Fizra\Fizra\bin\Release\Fizra.pdb
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.BMI.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Chest_in_out.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Crepost.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Erisman.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Form1.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Funct_sost.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Garvard.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.GEL.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Input.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Kuper.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Norms.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Prised.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Properties.Resources.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Shtange.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.Waist_to_Hip_ratio.resources
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Fizra.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Desktop\Электронный дневник самоконтроля\Электронный дневник самоконтроля (прототип).exe.config
+C:\Users\nikit\OneDrive\Desktop\Электронный дневник самоконтроля\Электронный дневник самоконтроля (прототип).exe
+C:\Users\nikit\OneDrive\Desktop\Электронный дневник самоконтроля\Электронный дневник самоконтроля (прототип).pdb
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Электронный дневник самоконтроля (прототип).exe
+C:\Users\nikit\source\repos\Fizra\Fizra\obj\Release\Электронный дневник самоконтроля (прототип).pdb

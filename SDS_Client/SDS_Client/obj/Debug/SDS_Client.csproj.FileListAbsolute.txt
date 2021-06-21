@@ -1,0 +1,14 @@
+C:\Users\Никита\source\repos\SDS_Client\SDS_Client\bin\Debug\SDS_Client.exe.config
+C:\Users\Никита\source\repos\SDS_Client\SDS_Client\bin\Debug\SDS_Client.exe
+C:\Users\Никита\source\repos\SDS_Client\SDS_Client\bin\Debug\SDS_Client.pdb
+C:\Users\Никита\source\repos\SDS_Client\SDS_Client\obj\Debug\SDS_Client.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\SDS_Client\SDS_Client\obj\Debug\SDS_Client.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\SDS_Client\SDS_Client\obj\Debug\SDS_Client.exe
+C:\Users\Никита\source\repos\SDS_Client\SDS_Client\obj\Debug\SDS_Client.pdb
+C:\Users\nikit\OneDrive\Desktop\SDS_Client\SDS_Client\bin\Debug\SDS_Client.exe.config
+C:\Users\nikit\OneDrive\Desktop\SDS_Client\SDS_Client\bin\Debug\SDS_Client.exe
+C:\Users\nikit\OneDrive\Desktop\SDS_Client\SDS_Client\bin\Debug\SDS_Client.pdb
+C:\Users\nikit\OneDrive\Desktop\SDS_Client\SDS_Client\obj\Debug\SDS_Client.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Desktop\SDS_Client\SDS_Client\obj\Debug\SDS_Client.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Desktop\SDS_Client\SDS_Client\obj\Debug\SDS_Client.exe
+C:\Users\nikit\OneDrive\Desktop\SDS_Client\SDS_Client\obj\Debug\SDS_Client.pdb

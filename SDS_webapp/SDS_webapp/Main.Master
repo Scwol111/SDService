@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="SDS_webapp.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="background-color: #999966; background-image: none;" draggable="false">
+            <asp:LinkButton ID="LinkButton1" runat="server" ForeColor="Black" OnClick="Button1_Click">Главная</asp:LinkButton>
+&nbsp;&nbsp;&nbsp;
+            <asp:LinkButton ID="LinkButton2" runat="server" ForeColor="Black" OnClick="Button2_Click">Основные параметры</asp:LinkButton>
+&nbsp;&nbsp;&nbsp;
+            <asp:LinkButton ID="LinkButton5" runat="server" ForeColor="Black" OnClick="LinkButton5_Click">Дополнительные параметры</asp:LinkButton>
+&nbsp;&nbsp;&nbsp; <asp:LinkButton ID="LinkButton4" runat="server" ForeColor="Black" OnClick="LinkButton4_Click">Нормативы</asp:LinkButton>
+            &nbsp;&nbsp;&nbsp;
+            <asp:LinkButton ID="LinkButton3" runat="server" ForeColor="Black" OnClick="Button3_Click">Мой профиль</asp:LinkButton>
+            &nbsp;&nbsp;&nbsp;
+            <asp:LinkButton ID="LinkButton6" runat="server" ForeColor="Black" OnClick="LinkButton6_Click">Выход</asp:LinkButton>
+            <br />
+        </div>
+        <p style="background-image: url('/Kai.png')">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </p>
+        <p>
+            <asp:Label ID="Label1" runat="server" Text="@SDS_service"></asp:Label>
+        </p>
+    </form>
+</body>
+</html>
